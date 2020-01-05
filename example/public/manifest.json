@@ -1,6 +1,6 @@
 {
-  "short_name": "ui-library",
-  "name": "ui-library",
+  "short_name": "lovel-ui",
+  "name": "lovel-ui",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

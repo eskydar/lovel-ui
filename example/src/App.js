@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'ui-library'
+import ExampleComponent from 'lovel-ui'
 
 export default class App extends Component {
   render () {

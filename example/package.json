@@ -1,6 +1,6 @@
 {
-  "name": "ui-library-example",
-  "homepage": "https://eskydar.github.io/ui-library",
+  "name": "lovel-ui-example",
+  "homepage": "https://eskydar.github.io/lovel-ui",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^3.3.0",
-    "ui-library": "file:.."
+    "lovel-ui": "file:.."
   },
   "scripts": {
     "start": "react-scripts start",
